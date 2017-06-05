@@ -6,5 +6,6 @@ public Class A{
 	public void Dev1(){
 	}
 	public void Dev2(){
+		System.out.println("Dev2 SOP...");
 	}
 }
